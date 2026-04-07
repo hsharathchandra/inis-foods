@@ -18,7 +18,7 @@ if "name" not in st.session_state:
 # -----------------------------
 # CONFIG
 # -----------------------------
-API = "http://127.0.0.1:8000"
+API = "https://inis-foods.onrender.com"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 st.set_page_config(page_title="Ini's Pickle Jar", layout="wide")
