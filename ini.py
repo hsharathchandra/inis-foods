@@ -66,7 +66,7 @@ def load_products():
 products = load_products()
 
 # ---------------- STORE ----------------
-st.title("🏺 Ini's Pickle Jar")
+st.title("🏺 Ini's Foods")
 
 search = st.text_input("Search")
 
