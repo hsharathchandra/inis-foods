@@ -135,7 +135,7 @@ def seed_products():
         "description": "Authentic tangy gongura leaf pickle.",
         "price": {"250g": 200, "500g": 400, "1kg": 800},
         "rating": 4.8,
-        "image": "images/Gongura.jpg"
+        "image": "images/gongura.jpg"
     },
     {
         "name": "Gongura Pandu Mirchi Pickle",
