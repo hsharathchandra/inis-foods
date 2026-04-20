@@ -212,6 +212,6 @@ if total > 0:
 
         encoded_message = urllib.parse.quote(message, safe='')
 
-        whatsapp_url = f"https://wa.me/919618862474?text={encoded_message}"
+        whatsapp_url = f"https://wa.me/919676120644?text={encoded_message}"
 
         st.sidebar.markdown(f"[📲 Order via WhatsApp]({whatsapp_url})")
